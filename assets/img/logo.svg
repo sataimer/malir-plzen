@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#f97316"/></linearGradient></defs>
+<rect x="8" y="8" width="132" height="132" rx="28" fill="#111827"/>
+<path d="M35 98c0-30 24-54 54-54h15v18H89c-20 0-36 16-36 36v14H35z" fill="url(#g)"/>
+<path d="M40 112h70" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+<path d="M98 29l18 18-15 15-18-18z" fill="#38bdf8"/>
+<path d="M30 28h47v21H30z" fill="#fff"/>
+<text x="162" y="65" font-family="Arial, sans-serif" font-weight="800" font-size="42" fill="#111827">MAL STAV JANDA</text>
+<text x="164" y="106" font-family="Arial, sans-serif" font-size="28" fill="#6b7280">malířské a lakýrnické práce Plzeň</text>
+</svg>
